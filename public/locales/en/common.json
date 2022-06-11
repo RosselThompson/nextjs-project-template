@@ -1,0 +1,15 @@
+{
+    "signin.form.title": "Sign in to your Account",
+    "signin.form.subtitle": "Welcome back. Please enter your data",
+    "signin.form.input.email": "Email",
+    "signin.form.input.email.placeholder": "name@company.com",
+    "signin.form.input.email.isRequired": "Email is required",
+    "signin.form.input.email.isEmail": "Email must be an email",
+    "signin.form.input.password": "Password",
+    "signin.form.input.password.placeholder": "Enter your password",
+    "signin.form.input.password.isRequired": "Password is required",
+    "signin.form.link.forgotpassword": "Forgot your password?",
+    "signin.form.submit": "Sign In",
+    "signin.form.server.error.notfound": "User does not exist in our database."
+  }
+  

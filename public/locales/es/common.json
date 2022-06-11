@@ -1,0 +1,14 @@
+{
+  "signin.form.title": "Inicia sesión con tu cuenta",
+  "signin.form.subtitle": "Bienvenido. Por favor complete el formulario",
+  "signin.form.input.email": "Correo Electrónico",
+  "signin.form.input.email.placeholder": "nombre@ejemplo.com",
+  "signin.form.input.email.isRequired": "Correo electrónico es requerido",
+  "signin.form.input.email.isEmail": "Correo electrónico no es válido",
+  "signin.form.input.password": "Contraseña",
+  "signin.form.input.password.placeholder": "Introduzca su contraseña",
+  "signin.form.input.password.isRequired": "Contraseña es requerida",
+  "signin.form.link.forgotpassword": "¿Olvidaste tu contraseña?",
+  "signin.form.submit": "Iniciar Sesión",
+  "signin.form.server.error.notfound": "No se encontró el usuario. Revise sus credenciales"
+}
